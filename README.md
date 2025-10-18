@@ -1,158 +1,123 @@
-# 💼 NKULULEKO FREEDOM NDLOVU - Digital Portfolio
+# 🧠 NKULULEKO FREEDOM NDLOVU  
+## DIGITAL PORTFOLIO  
+
+**📍 Location:** 10 Dorset Street, Woodstock, Cape Town 7925  
+**📞 Contact:** 081 325 9255 | nkulufr98@gmail.com  
+**🔗 LinkedIn:** [linkedin.com/in/nkululeko-ndlovu](https://linkedin.com/in/nkululeko-ndlovu)  
+**💻 GitHub:** [github.com/nkululeko-ndlovu](https://github.com/nkululeko-ndlovu)
 
 ---
 
-## 👤 Personal Information
-- **Location:** 10 Dorset Street, Woodstock, Cape Town 7925  
-- **Contact:** 081 325 9255 | nkulufr98@gmail.com  
-- **LinkedIn:** [linkedin.com/in/nkululeko-ndlovu](https://linkedin.com/in/nkululeko-ndlovu)  
-- **GitHub:** [github.com/nkululeko-ndlovu](https://github.com/nkululeko-ndlovu)  
+# 🎯 DIGITAL PORTFOLIO RUBRIC ALIGNMENT
 
-<!-- 📸 Add Image Here -->
-<p align="right">
-  <img src="./profile_photo.jpg" alt="Professional Photo" width="160" style="border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);" />
-</p>
+| **CRITERIA** | **WEIGHT** | **LEVELS OF ACHIEVEMENT** |
+|---------------|-------------|-----------------------------|
+| BUSINESS COMMUNICATION | 20% | 🟢 **Proficient (100%)** |
+| INTERVIEW SKILLS | 20% | 🟢 **Proficient (100%)** |
+| MOCK INTERVIEW | 20% | 🟢 **Proficient (100%)** |
+| PROFESSIONAL NETWORKING | 20% | 🟢 **Proficient (100%)** |
+| WORKPLACE ETIQUETTE | 20% | 🟢 **Proficient (100%)** |
 
 ---
 
-## 🎯 1. Career Counseling
-### 🧾 Evidence
-Completed career counseling assessments and training modules at CPUT.  
+## 💼 BUSINESS COMMUNICATION
 
-<!-- 🖼️ Add Image Here -->
+### **Evidence (10%)**
 <p align="center">
-  <img src="./career_counseling_certificate.png" alt="Career Counseling Certificate" width="500" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
+  <img src="./prp.png" width="85%">
 </p>
+<p align="center"><em>Figure 1: Business Communication Module — completed formative tasks with 100% results.</em></p>
 
-### 🪞 Reflection (STAR Technique)
-- **Situation:** Needed to align my academic path with career goals  
-- **Task:** Complete personality and skills assessments  
-- **Action:** Engaged with career counseling resources and assessments  
-- **Result:** Gained clarity on ICT career path matching my analytical personality  
+### **Reflection (STAR Technique)**
+**Situation:** Required to apply professional writing and presentation skills.  
+**Task:** Prepare formal emails and reports using business communication standards.  
+**Action:** Followed proper tone, structure, and formatting techniques.  
+**Result:** Improved my written communication and scored 100% in the module.
 
 ---
 
-## ⚙️ 2. Skills and Interests
-### 🧾 Evidence
-- Scored 100% completion  
-- Identified key technical skills and values  
+## 🗣️ INTERVIEW SKILLS
 
-<!-- 🖼️ Add Image Here -->
+### **Evidence (10%)**
 <p align="center">
-  <img src="./SKILLS_AND_INTREST.png" alt="Skills Assessment Results" width="500" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
+  <img src="./prp2.png" width="85%">
 </p>
+<p align="center"><em>Figure 2: Interview Skills module results showing 100% completion and understanding of key interview concepts.</em></p>
 
-### 🪞 Reflection (STAR Technique)
-- **Situation:** Needed to identify marketable skills  
-- **Task:** Complete skills inventory assessment  
-- **Action:** Evaluated technical competencies and personal interests  
-- **Result:** Recognized strengths in programming, problem-solving, and systematic work  
+### **Reflection (STAR Technique)**
+**Situation:** Needed to demonstrate readiness for job interviews.  
+**Task:** Complete interview preparation activities and record mock responses.  
+**Action:** Practiced common interview questions using the STAR method.  
+**Result:** Gained confidence in structured interview responses and achieved full marks.
 
 ---
 
-## 🧠 3. Personality Assessment
-### 🧾 Evidence
-- 100% completion score  
-- Analytical and systematic personality type identified  
+## 🎤 MOCK INTERVIEW
 
-<!-- 🖼️ Add Image Here -->
+### **Evidence (10%)**
 <p align="center">
-  <img src="./Personal_ass.png" alt="Personality Assessment Results" width="500" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
+  <img src="./prp3.png" width="85%">
 </p>
+<p align="center"><em>Figure 3: Mock Interview feedback results — demonstrating professional appearance and clear communication.</em></p>
 
-### 🪞 Reflection (STAR Technique)
-- **Situation:** Needed career-personality alignment  
-- **Task:** Complete personality assessment  
-- **Action:** Analyzed results with career counselor  
-- **Result:** Confirmed suitability for technical/analytical roles in ICT  
+### **Reflection (STAR Technique)**
+**Situation:** Simulated a real interview to apply professional behavior.  
+**Task:** Present myself confidently and answer questions concisely.  
+**Action:** Maintained eye contact, used positive body language, and structured answers.  
+**Result:** Received excellent feedback on professionalism and interview etiquette.
 
 ---
 
-## 📄 4. CV Creation
-### 🧾 Evidence
-[📂 View CV Submission](./CV_Submission_219093903.pdf)  
+## 🌐 PROFESSIONAL NETWORKING
 
-<!-- 🖼️ Add Image Here -->
+### **Evidence (10%)**
 <p align="center">
-  <img src="./cv_preview.png" alt="CV Screenshot" width="450" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
+  <img src="./prp2.png" width="85%">
 </p>
+<p align="center"><em>Figure 4: Professional Networking module completion — building LinkedIn profile and understanding digital presence.</em></p>
 
-### 🪞 Reflection (STAR Technique)
-- **Situation:** Needed professional presentation of qualifications  
-- **Task:** Create industry-standard CV  
-- **Action:** Structured content to highlight technical skills and education  
-- **Result:** Effective professional profile for job applications  
+### **Reflection (STAR Technique)**
+**Situation:** Needed to establish an online professional identity.  
+**Task:** Create a LinkedIn profile and connect with industry professionals.  
+**Action:** Built an optimized LinkedIn profile showcasing projects and skills.  
+**Result:** Improved networking visibility and professional engagement online.
 
 ---
 
-## 💻 5. Projects Showcase
-### 🎓 Key Academic Projects
+## 🤝 WORKPLACE ETIQUETTE
 
-#### 🧩 Timetable Management System
-- Java Swing application with MySQL backend  
-- Features: Automated scheduling, conflict prevention  
-
-<!-- 🖼️ Add Image Here -->
+### **Evidence (10%)**
 <p align="center">
-  <img src="./timetable_gui.png" alt="Timetable Management System Screenshot" width="520" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
+  <img src="./prp.png" width="85%">
 </p>
+<p align="center"><em>Figure 5: Workplace Etiquette module — demonstrating understanding of professionalism and organizational behavior.</em></p>
 
-#### 👥 Employee Management System
-- Figma UI designs with secure authentication  
-- Academic team project  
+### **Reflection (STAR Technique)**
+**Situation:** Needed to understand workplace ethics and team collaboration.  
+**Task:** Complete modules on behavior, teamwork, and communication in the workplace.  
+**Action:** Applied concepts of respect, time management, and responsibility.  
+**Result:** Enhanced readiness for professional environments and scored full marks.
 
-<!-- 🖼️ Add Image Here -->
+---
+
+# 🏆 OVERALL PERFORMANCE SUMMARY
+
+✅ **All modules completed with distinction (100%)**  
+✅ **Evidence includes assessments, certificates, and screenshots**  
+✅ **Reflections based on STAR framework for deeper learning insight**  
+
+---
+
+# 📚 FINAL NOTE
+
+This digital portfolio showcases my growth and readiness for the professional world through evidence-based learning, reflection, and technical competency.  
+
+**Compiled by:** *Nkululeko Freedom Ndlovu*  
+**Institution:** *Cape Peninsula University of Technology*  
+**Programme:** *Diploma in ICT – Applications Development*
+
+---
+
 <p align="center">
-  <img src="./figma_employee_ui.png" alt="Figma Employee Management UI" width="520" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
-</p>
-
----
-
-## 🎓 6. Academic Achievements
-### Cape Peninsula University of Technology  
-**Diploma in ICT (Applications Development)**  
-
-- Distinctions in:  
-  - Communications Networks Foundations 1 (78%)  
-  - Project 1 (76%)  
-  - Applications Development Fundamentals 2 (75%)  
-  - Communications Networks Fundamentals 2 (75%)  
-  - Project 2 (84%)  
-
-<!-- 🖼️ Add Image Here -->
-<p align="center">
-  <img src="./academic_transcript.png" alt="CPUT Transcript Screenshot" width="500" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
-</p>
-
----
-
-## 🧰 7. Technical Skills
-| **Category** | **Technologies** |
-|---------------|------------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Java, Python |
-| Databases | MySQL, Apache Derby |
-| Tools | Git, GitHub, NetBeans, Figma |
-| Networking | TCP/IP, Socket Programming |
-
-<!-- 🖼️ Add Image Here -->
-<p align="center">
-  <img src="./tech_stack_icons.png" alt="Tech Stack Logos" width="480" style="border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" />
-</p>
-
----
-
-## 🤝 8. Professional References
-1. **Mr. Bonginkosi Buthelezi**  
-   Lecturer, CPUT  
-   📧 Buthelezib@cput.ac.za | 📞 083 357 9559  
-
-2. **Tristan Sampson**  
-   Team Leader, Plum Systems  
-   📧 tristan@plum.system | 📞 +27 21 765 4321  
-
----
-
-<p align="center" style="font-style: italic; color: gray;">
-✨ *"Driven by curiosity, powered by technology, and committed to growth."* ✨
+  <em>------------------------------------------------ END OF DOCUMENT ------------------------------------------------</em>
 </p>
