@@ -3,8 +3,8 @@
 **📍 Address:** 10 Dorset Street, Woodstock, Cape Town 7925  
 **📞 Contact:** 081 325 9255  
 **✉️ Email:** nkulufr98@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/nkululeko-ndlovu](https://linkedin.com/in/nkululeko-ndlovu)  
-**💻 GitHub:** [github.com/nkululeko-ndlovu](https://github.com/nkululeko-ndlovu)
+**🔗 LinkedIn:** [linkedin.com/in/nkululeko-ndlovu-26161b25a](https://www.linkedin.com/in/nkululeko-ndlovu-26161b25a/)  
+**💻 GitHub:** [github.com/NkululekoNdlovu-ui](https://github.com/NkululekoNdlovu-ui)
 
 ---
 
@@ -101,4 +101,4 @@
 ### ✨ End of Digital Portfolio
 **Nkululeko Freedom Ndlovu**  
 “Professionalism is not an act, but a habit of excellence.”  
-🔗 [LinkedIn](https://linkedin.com/in/nkululeko-ndlovu) | 💻 [GitHub](https://github.com/nkululeko-ndlovu)
+🔗 [LinkedIn](https://www.linkedin.com/in/nkululeko-ndlovu-26161b25a/) | 💻 [GitHub](https://github.com/NkululekoNdlovu-ui)
