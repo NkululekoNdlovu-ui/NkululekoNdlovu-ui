@@ -24,7 +24,7 @@
 ### 🧾 Evidence (10%)
 > Completed assignments and communication assessments demonstrating clear, professional written and verbal communication.
 
-![Business Communication Evidence](./BussinessCommunication.png)
+![Business Communication Evidence](./Bussiness%20Communication.png)
 
 ### 🪞 Reflection — STAR Technique (10%)
 **Situation:** I was tasked to deliver a professional presentation.  
@@ -38,7 +38,7 @@
 ### 🧾 Evidence (10%)
 > Completed multiple interview preparation tasks and participated in mock interviews.
 
-![Interview Skills Evidence](./InterviewSkills.png)
+![Interview Skills Evidence](./Interview%20Skills.png)
 
 ### 🪞 Reflection — STAR Technique (10%)
 **Situation:** Preparing for a job interview simulation.  
@@ -66,7 +66,7 @@
 ### 🧾 Evidence (10%)
 > Built a professional online presence through LinkedIn and networking tasks.
 
-![Professional Networking](./ProffessionalNetworking.png)
+![Professional Networking](./Proffessional%20Networking.png)
 
 ### 🪞 Reflection — STAR Technique (10%)
 **Situation:** I needed to build connections for career growth.  
@@ -80,7 +80,7 @@
 ### 🧾 Evidence (10%)
 > Completed workplace professionalism modules and etiquette assessments.
 
-![Workplace Etiquette Evidence](./workplaceEtiquette.png)
+![Workplace Etiquette Evidence](./workplace%20Etiquette.png)
 
 ### 🪞 Reflection — STAR Technique (10%)
 **Situation:** Practicing professional behavior in collaborative environments.  
