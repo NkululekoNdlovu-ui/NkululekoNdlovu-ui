@@ -1,123 +1,103 @@
-# 🧠 NKULULEKO FREEDOM NDLOVU  
-## DIGITAL PORTFOLIO  
+# 🌟 Nkululeko Freedom Ndlovu — Digital Portfolio
 
-**📍 Location:** 10 Dorset Street, Woodstock, Cape Town 7925  
-**📞 Contact:** 081 325 9255 | nkulufr98@gmail.com  
+**📍 Address:** 10 Dorset Street, Woodstock, Cape Town 7925  
+**📞 Contact:** 081 325 9255  
+**✉️ Email:** nkulufr98@gmail.com  
 **🔗 LinkedIn:** [linkedin.com/in/nkululeko-ndlovu](https://linkedin.com/in/nkululeko-ndlovu)  
 **💻 GitHub:** [github.com/nkululeko-ndlovu](https://github.com/nkululeko-ndlovu)
 
 ---
 
-# 🎯 DIGITAL PORTFOLIO RUBRIC ALIGNMENT
+## 📋 Digital Portfolio Rubric
 
-| **CRITERIA** | **WEIGHT** | **LEVELS OF ACHIEVEMENT** |
-|---------------|-------------|-----------------------------|
-| BUSINESS COMMUNICATION | 20% | 🟢 **Proficient (100%)** |
-| INTERVIEW SKILLS | 20% | 🟢 **Proficient (100%)** |
-| MOCK INTERVIEW | 20% | 🟢 **Proficient (100%)** |
-| PROFESSIONAL NETWORKING | 20% | 🟢 **Proficient (100%)** |
-| WORKPLACE ETIQUETTE | 20% | 🟢 **Proficient (100%)** |
-
----
-
-## 💼 BUSINESS COMMUNICATION
-
-### **Evidence (10%)**
-<p align="center">
-  <img src="./prp.png" width="85%">
-</p>
-<p align="center"><em>Figure 1: Business Communication Module — completed formative tasks with 100% results.</em></p>
-
-### **Reflection (STAR Technique)**
-**Situation:** Required to apply professional writing and presentation skills.  
-**Task:** Prepare formal emails and reports using business communication standards.  
-**Action:** Followed proper tone, structure, and formatting techniques.  
-**Result:** Improved my written communication and scored 100% in the module.
+| **CRITERIA**                | **WEIGHT** | **LEVEL OF ACHIEVEMENT** |
+|-----------------------------|-------------|----------------------------|
+| Business Communication      | 20%         | 🟢 **Proficient (100%)**   |
+| Interview Skills            | 20%         | 🟢 **Proficient (100%)**   |
+| Mock Interview              | 20%         | 🟢 **Proficient (100%)**   |
+| Professional Networking     | 20%         | 🟢 **Proficient (100%)**   |
+| Workplace Etiquette         | 20%         | 🟢 **Proficient (100%)**   |
 
 ---
 
-## 🗣️ INTERVIEW SKILLS
+## 💼 Business Communication
+### 🧾 Evidence (10%)
+> Completed assignments and communication assessments demonstrating clear, professional written and verbal communication.
 
-### **Evidence (10%)**
-<p align="center">
-  <img src="./prp2.png" width="85%">
-</p>
-<p align="center"><em>Figure 2: Interview Skills module results showing 100% completion and understanding of key interview concepts.</em></p>
+![Business Communication Evidence](./prp.png)
 
-### **Reflection (STAR Technique)**
-**Situation:** Needed to demonstrate readiness for job interviews.  
-**Task:** Complete interview preparation activities and record mock responses.  
-**Action:** Practiced common interview questions using the STAR method.  
-**Result:** Gained confidence in structured interview responses and achieved full marks.
+### 🪞 Reflection — STAR Technique (10%)
+**Situation:** I was tasked to deliver a professional presentation.  
+**Task:** Develop and present a report on communication strategies.  
+**Action:** I prepared using feedback from mock exercises and refined my delivery.  
+**Result:** Achieved 100% — demonstrating mastery in business communication.
 
 ---
 
-## 🎤 MOCK INTERVIEW
+## 🗣️ Interview Skills
+### 🧾 Evidence (10%)
+> Completed multiple interview preparation tasks and participated in mock interviews.
 
-### **Evidence (10%)**
-<p align="center">
-  <img src="./prp3.png" width="85%">
-</p>
-<p align="center"><em>Figure 3: Mock Interview feedback results — demonstrating professional appearance and clear communication.</em></p>
+![Interview Skills Evidence](./prp2.png)
 
-### **Reflection (STAR Technique)**
-**Situation:** Simulated a real interview to apply professional behavior.  
-**Task:** Present myself confidently and answer questions concisely.  
-**Action:** Maintained eye contact, used positive body language, and structured answers.  
-**Result:** Received excellent feedback on professionalism and interview etiquette.
+### 🪞 Reflection — STAR Technique (10%)
+**Situation:** Preparing for a job interview simulation.  
+**Task:** Apply interview principles effectively.  
+**Action:** Practiced common questions, improved confidence through peer review.  
+**Result:** Scored 100% and improved clarity and composure in responses.
 
 ---
 
-## 🌐 PROFESSIONAL NETWORKING
+## 🎤 Mock Interview
+### 🧾 Evidence (10%)
+> Participated in a live mock interview and provided peer evaluations.
 
-### **Evidence (10%)**
-<p align="center">
-  <img src="./prp2.png" width="85%">
-</p>
-<p align="center"><em>Figure 4: Professional Networking module completion — building LinkedIn profile and understanding digital presence.</em></p>
+![Mock Interview Evidence](./prp3.png)
 
-### **Reflection (STAR Technique)**
-**Situation:** Needed to establish an online professional identity.  
-**Task:** Create a LinkedIn profile and connect with industry professionals.  
-**Action:** Built an optimized LinkedIn profile showcasing projects and skills.  
-**Result:** Improved networking visibility and professional engagement online.
+### 🪞 Reflection — STAR Technique (10%)
+**Situation:** Simulated interview session.  
+**Task:** Exhibit professionalism and communication under pressure.  
+**Action:** Maintained strong eye contact and clear articulation.  
+**Result:** Received 100% and positive feedback from evaluators.
 
 ---
 
-## 🤝 WORKPLACE ETIQUETTE
+## 🌐 Professional Networking
+### 🧾 Evidence (10%)
+> Built a professional online presence through LinkedIn and networking tasks.
 
-### **Evidence (10%)**
-<p align="center">
-  <img src="./prp.png" width="85%">
-</p>
-<p align="center"><em>Figure 5: Workplace Etiquette module — demonstrating understanding of professionalism and organizational behavior.</em></p>
+![Professional Networking](./prp2.png)
 
-### **Reflection (STAR Technique)**
-**Situation:** Needed to understand workplace ethics and team collaboration.  
-**Task:** Complete modules on behavior, teamwork, and communication in the workplace.  
-**Action:** Applied concepts of respect, time management, and responsibility.  
-**Result:** Enhanced readiness for professional environments and scored full marks.
+### 🪞 Reflection — STAR Technique (10%)
+**Situation:** I needed to build connections for career growth.  
+**Task:** Create a professional online profile.  
+**Action:** Updated my LinkedIn with projects and achievements.  
+**Result:** Enhanced visibility and networking with professionals in the tech industry.
 
 ---
 
-# 🏆 OVERALL PERFORMANCE SUMMARY
+## 🏢 Workplace Etiquette
+### 🧾 Evidence (10%)
+> Completed workplace professionalism modules and etiquette assessments.
 
-✅ **All modules completed with distinction (100%)**  
-✅ **Evidence includes assessments, certificates, and screenshots**  
-✅ **Reflections based on STAR framework for deeper learning insight**  
+![Workplace Etiquette Evidence](./prp3.png)
 
----
-
-# 📚 FINAL NOTE
-
-This digital portfolio showcases my growth and readiness for the professional world through evidence-based learning, reflection, and technical competency.  
-
-**Compiled by:** *Nkululeko Freedom Ndlovu*  
-**Institution:** *Cape Peninsula University of Technology*  
-**Programme:** *Diploma in ICT – Applications Development*
+### 🪞 Reflection — STAR Technique (10%)
+**Situation:** Practicing professional behavior in collaborative environments.  
+**Task:** Apply proper etiquette in workplace scenarios.  
+**Action:** Followed communication protocols and respected diversity.  
+**Result:** Scored 100%, showing awareness of workplace standards.
 
 ---
 
-<p align="center">
-  <em>------------------------------------------------ END OF DOCUMENT ------------------------------------------------</em>
-</p>
+## 🧾 Summary of Achievement
+✅ All evidence components are **Proficient (100%)**  
+✅ Strong professional growth across all modules  
+✅ Reflective awareness through STAR technique  
+✅ Demonstrated consistency, professionalism, and excellence
+
+---
+
+### ✨ End of Digital Portfolio
+**Nkululeko Freedom Ndlovu**  
+“Professionalism is not an act, but a habit of excellence.”
